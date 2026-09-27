@@ -1,0 +1,12 @@
+{
+  "name": "icm-api",
+  "version": "1.0.0",
+  "description": "RESTful API for VMware vSphere ICM project validation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
